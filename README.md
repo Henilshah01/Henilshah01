@@ -12,16 +12,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
+  <div id="badges">
+  <a href="www.linkedin.com/in/henilshah20/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/henil482/">
+    <img src="https://img.shields.io/badge/Instagram-FC0697?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+
 <h1 align="center">Hi 👋, I'm Henil Shah</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p text-align: justify; text-justify: inter-word;>
+  I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.Over the years, I’ve consistently demonstrated my ability to deliver high-quality software products. I’m proficient in various programming languages including Python, Java, and C++, and possess extensive knowledge of software development methodologies and best practices. 
 </p>
+<br></br>
+<div>
+  <h4>👩‍💻 CODING SKILLS:</h4>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)](https://krishsatasiya.netlify.app/)<br/>
 
+<div>
+  <h4>🎨 CREATIVE SKILLS:</h4>
+</div>
+
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://krishsatasiya.netlify.app/)<br/>
+
+<div>
+  <h4>📷 SOCIAL MEDIA:</h4>
+</div>
+
+[![SkillIcons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/henil482/)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henilshah20)&nbsp;&nbsp; 
+<!--[![SkillIcons](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22868652/krish-satasiya)&nbsp;&nbsp;-->
+[![SkillIcons](https://skillicons.dev/icons?i=twitter)](https://x.com/HenilShah2012)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=discord)]()&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=figma)](https://www.figma.com/@HenilShah20)&nbsp;&nbsp; 
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:shahhenil51@gmail.com)&nbsp;&nbsp; 
+
+<!-- for update : https://github.com/tandpfun/skill-icons -->  
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mrkrishsatasiya&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkrishsatasiya&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
 
 <!---
 Henilshah01/Henilshah01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
