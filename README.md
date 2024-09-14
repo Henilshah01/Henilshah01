@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/henilshah20/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/henil482/">
-    <img src="https://img.shields.io/badge/Instagram-FC0697?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
 
 <h1 align="center">Hi 👋, I'm Henil Shah</h1>
 <h3 align="center">A Passionate Web Developer & Graphics Designer From India</h3>
