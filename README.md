@@ -54,12 +54,6 @@ Here are some ideas to get you started:
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:shahhenil51@gmail.com)&nbsp;&nbsp; 
 
 <!-- for update : https://github.com/tandpfun/skill-icons -->  
-<details>
-  <summary>Github Stats ⚡</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mrkrishsatasiya&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkrishsatasiya&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
 
 <!---
 Henilshah01/Henilshah01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
