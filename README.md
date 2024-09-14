@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <h4>🎨 CREATIVE SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://krishsatasiya.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=figma,ae,blender,ai,ps,pr,xd,svg)](https://henilshah.netlify.app/)<br/>
 
 <div>
   <h4>📷 SOCIAL MEDIA:</h4>
