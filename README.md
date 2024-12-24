@@ -1,5 +1,5 @@
 <!--
-**rohan-shaw/rohan-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Henil-Shah/Henil-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   I'm a Highly skilled and passionate software engineer with a flair for creating innovative solutions. With a strong background in computer science and programming, I’ve developed a diverse range of technical skills that enable me to tackle complex challenges in software development.Over the years, I’ve consistently demonstrated my ability to deliver high-quality software products. I’m proficient in various programming languages including Python, Java, and C++, and possess extensive knowledge of software development methodologies and best practices. 
 </p>
 <br></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Henilshah01&label=Profile%20views&color=ff0000&style=flat-square" alt="Henilshah01" /> </p>
 <div>
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
