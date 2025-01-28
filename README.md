@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <h4>👩‍💻 CODING SKILLS:</h4>
 </div>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,py,bootstrap,flutter,git,github,vscode)(https://henilshah.netlify.app/)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,py,bootstrap,flutter,git,github,vscode)<br/>
 
 <!--[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,nodejs,py,tailwind,vue,mongodb,docker,aws,gcp,azure,react,flutter,androidstudio,cpp,c,angular,bootstrap,firebase,flutter,git,github,kotlin,mysql,nodejs,npm,react,wordpress,visualstudio,vscode)](https://henilshah.netlify.app/)<br/>-->
 
